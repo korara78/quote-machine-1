@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/quote-machine-1/static/css/main.cea634eb.chunk.css",
-    "main.js": "/quote-machine-1/static/js/main.424d7de0.chunk.js",
-    "main.js.map": "/quote-machine-1/static/js/main.424d7de0.chunk.js.map",
-    "runtime-main.js": "/quote-machine-1/static/js/runtime-main.8f53ba8c.js",
-    "runtime-main.js.map": "/quote-machine-1/static/js/runtime-main.8f53ba8c.js.map",
-    "static/js/2.40186278.chunk.js": "/quote-machine-1/static/js/2.40186278.chunk.js",
-    "static/js/2.40186278.chunk.js.map": "/quote-machine-1/static/js/2.40186278.chunk.js.map",
-    "static/js/3.7ee51953.chunk.js": "/quote-machine-1/static/js/3.7ee51953.chunk.js",
-    "static/js/3.7ee51953.chunk.js.map": "/quote-machine-1/static/js/3.7ee51953.chunk.js.map",
-    "index.html": "/quote-machine-1/index.html",
-    "static/css/main.cea634eb.chunk.css.map": "/quote-machine-1/static/css/main.cea634eb.chunk.css.map",
-    "static/js/2.40186278.chunk.js.LICENSE.txt": "/quote-machine-1/static/js/2.40186278.chunk.js.LICENSE.txt"
+    "main.css": "/quote-machine-oval-hooks/static/css/main.4f0efce5.chunk.css",
+    "main.js": "/quote-machine-oval-hooks/static/js/main.0a22a485.chunk.js",
+    "main.js.map": "/quote-machine-oval-hooks/static/js/main.0a22a485.chunk.js.map",
+    "runtime-main.js": "/quote-machine-oval-hooks/static/js/runtime-main.7b935c5d.js",
+    "runtime-main.js.map": "/quote-machine-oval-hooks/static/js/runtime-main.7b935c5d.js.map",
+    "static/js/2.40186278.chunk.js": "/quote-machine-oval-hooks/static/js/2.40186278.chunk.js",
+    "static/js/2.40186278.chunk.js.map": "/quote-machine-oval-hooks/static/js/2.40186278.chunk.js.map",
+    "static/js/3.7ee51953.chunk.js": "/quote-machine-oval-hooks/static/js/3.7ee51953.chunk.js",
+    "static/js/3.7ee51953.chunk.js.map": "/quote-machine-oval-hooks/static/js/3.7ee51953.chunk.js.map",
+    "index.html": "/quote-machine-oval-hooks/index.html",
+    "static/css/main.4f0efce5.chunk.css.map": "/quote-machine-oval-hooks/static/css/main.4f0efce5.chunk.css.map",
+    "static/js/2.40186278.chunk.js.LICENSE.txt": "/quote-machine-oval-hooks/static/js/2.40186278.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8f53ba8c.js",
+    "static/js/runtime-main.7b935c5d.js",
     "static/js/2.40186278.chunk.js",
-    "static/css/main.cea634eb.chunk.css",
-    "static/js/main.424d7de0.chunk.js"
+    "static/css/main.4f0efce5.chunk.css",
+    "static/js/main.0a22a485.chunk.js"
   ]
 }
